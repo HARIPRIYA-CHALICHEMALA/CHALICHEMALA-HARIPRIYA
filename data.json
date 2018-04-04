@@ -2,4 +2,43 @@
   "Career":{
     "info":"To pursue a mba."
   },
-  
+  "education":[
+    {
+      "degree":"SSC",
+      "school":"KESHAVA REDDY CONCEPT SCHOOL",
+      "data":["2013","88%"]
+    },
+    {
+      "degree":"INTERMEDIATE",
+      "school":"SRI CHAITHANYA JUNIOUR COLLEGE",
+      "data":["2015","94%"]
+    },
+    {
+      "degree":"GRADUATION",
+      "school":"SREE VIDYANIKETHAN ENGINEERING COLLEGE",
+      "data":["2019","76%"]
+    }
+  ],
+  "skills":[
+    {
+      "name":"operating system",
+      "info":["windows","linux","Fedora","ubuntu"]
+    },
+    {
+      "name":"Languages",
+      "info":["c","c++","java"]
+      },
+      {
+        "name":"Database",
+        "info":["Mysql","Oracle"]
+      },
+      {
+        "name":"Web Technologies",
+        "info":["html","cSS","javascript","php"]
+      },
+      {
+        "name":"framework",
+        "info":["Bootstrap",".net"]
+      }
+  ]
+}
